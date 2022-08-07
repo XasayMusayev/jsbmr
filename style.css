@@ -1,0 +1,11 @@
+.imagee{
+    width: 100%;
+  
+    position: relative;
+    margin: 0 auto;
+    
+}
+img{
+    width: 100%;
+    object-fit: contain;
+}
